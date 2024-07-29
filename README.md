@@ -9,7 +9,7 @@
 - [Preparación de Datos](#preparación-de-datos)
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Fuentes de Datos](#-fuentes-de-datos)
+- [Fuentes de Datos](#fuentes-de-datos)
 - [Scripts de Extracción de Datos](#scripts-de-extracción-de-datos)
 - [Contribuciones](#contribuciones)
 - [Contacto](#contacto)
