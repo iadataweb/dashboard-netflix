@@ -60,6 +60,7 @@ Este proyecto utiliza datos extraídos de la [Kaggle](https://www.kaggle.com/dat
 ## Scripts de Extracción de Datos
 
 - **master_cleaning.py**: Este script se encarga de limpiar y generar un archivo nuevo sin modificar el datos original. La preparación incluye el renombrado de columnas, reemplazo de saltos de línea y eliminación de registros nulos.
+- **extract_genres.py**: Este script extrae las columnas `título` y `listado_en` del archivo de datos limpios, donde `listado_en` contiene géneros en formato de lista. Separa los géneros en filas individuales utilizando la función `explode` de pandas y guarda el resultado en un archivo CSV llamado `netflix_generos.csv`.
 
 ## Contribuciones
 
