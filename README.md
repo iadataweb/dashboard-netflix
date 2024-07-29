@@ -33,6 +33,7 @@ El proceso de limpieza y preparación de los datos incluyó:
 - Renombrar las columnas a español.
 - Reemplazar saltos de línea dentro de las celdas por un espacio.
 - Completar los registros de la columna `director` basándose en su relación con la columna `elenco`.
+- Completar los registros de la columna `elenco` basándose en su relación con la columna `director`.
 - Completar los registros de la columna `país` basándose en su relación con la columna `director`.
 - Eliminar registros nulos en las columnas `fecha_agregada`, `valoración` y `duración`.
 - Eliminar la columna `descripción` ya que no es necesaria para el análisis.
