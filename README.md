@@ -59,7 +59,7 @@ Este proyecto utiliza datos extraídos de la [Kaggle](https://www.kaggle.com/dat
 
 ## Scripts de Extracción de Datos
 
-- **master_cleaning.py**: Este script se encarga de limpiar y generar un archivo nuevo sin modificar el datos original, la preparación incluye el renombrado de columnas, reemplazo de saltos de línea  y eliminación de registros nulos.
+- **master_cleaning.py**: Este script se encarga de limpiar y generar un archivo nuevo sin modificar el datos original. La preparación incluye el renombrado de columnas, reemplazo de saltos de línea y eliminación de registros nulos.
 
 ## Contribuciones
 
