@@ -46,7 +46,7 @@ Para ejecutar este proyecto localmente, sigue los siguientes pasos:
 1. Clona este repositorio:
    
    ```bash
-   git clone https://github.com/injantedataweb/netflix-dashboard.git
+   git clone https://github.com/iadataweb/netflix-dashboard.git
    
 ## Uso
 
