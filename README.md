@@ -50,6 +50,8 @@ Para ejecutar este proyecto localmente, sigue los siguientes pasos:
    
 ## Uso
 
+Puedes interactuar con el dashboard en línea usando el siguiente enlace: [Dashboard Netflix en Power BI.](https://app.powerbi.com/view?r=eyJrIjoiODgyYjY4NjktODk1ZS00MDY1LWE0MDItNGEzNDViOTgzNTcxIiwidCI6ImE0ZjQ1Njc3LWMyNDMtNGIyNy1hMmNiLTZmZmY3M2JhN2M3OSIsImMiOjR9)
+
 Explora el dashboard para obtener información sobre:
 - Tipos de contenido.
 - Títulos, elenco y países asociados.
