@@ -1,4 +1,4 @@
-# Netflix Dashboard en Power BI
+# Dashboard de Netflix en Power BI
 
 ¡Bienvenido a mi proyecto de Dashboard de Netflix en Power BI! Este proyecto utiliza datos extraídos de Kaggle, que han sido limpiados y preparados con Python para crear un dashboard interactivo.
 
@@ -50,7 +50,7 @@ Para ejecutar este proyecto localmente, sigue los siguientes pasos:
    
 ## Uso
 
-Puedes interactuar con el dashboard en línea usando el siguiente enlace: [Dashboard Netflix en Power BI.](https://app.powerbi.com/view?r=eyJrIjoiODgyYjY4NjktODk1ZS00MDY1LWE0MDItNGEzNDViOTgzNTcxIiwidCI6ImE0ZjQ1Njc3LWMyNDMtNGIyNy1hMmNiLTZmZmY3M2JhN2M3OSIsImMiOjR9)
+Puedes interactuar con el dashboard en línea usando el siguiente enlace: [Dashboard de Netflix en Power BI.](https://app.powerbi.com/view?r=eyJrIjoiODgyYjY4NjktODk1ZS00MDY1LWE0MDItNGEzNDViOTgzNTcxIiwidCI6ImE0ZjQ1Njc3LWMyNDMtNGIyNy1hMmNiLTZmZmY3M2JhN2M3OSIsImMiOjR9)
 
 Explora el dashboard para obtener información sobre:
 - Tipos de contenido.
